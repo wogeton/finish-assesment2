@@ -1,0 +1,448 @@
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 100px;
+}
+
+.ceatedby{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div1{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: darkgray;
+    height: 50px;
+    border-radius: 50%;
+    width: 500px;
+    top: 200px;
+    background: fixed;
+}
+.infp1{
+    position: relative;
+    top: 20px;
+    width: 400px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*navegate bar*/
+.bar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    position: relative;
+    bottom: 25px;
+    font-size: larger;
+    left: 25px;
+
+    color: black;
+}
+
+.bardiv {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    height: 80px;
+    transform: translateX(-50%);
+    background-color: darkgray;
+    border-radius: 40px;
+    width: 600px;
+}
+.barimg{
+    width: 100px;
+    border: 10px;
+    border-radius: 20px;
+    margin:8px;
+}
+
+.imgscuerd{
+    border-radius: 5px;
+    border: 10px;
+    
+}
+
+
+/*navegate bar*/
+
+.scuerd1{
+    width: 100px;
+}
+
+.title_scruerd{
+    align-items: center;
+}
+
+.bottondiv{
+    position: relative;
+    left: 50%;
+    top: 500px;
+}
+
+/*animal page*/
+
+/*scuerd1*/
+.scuerd1 {
+    display: inline-block;
+    position: relative;
+    left: 300px;
+
+    background-color: darkgray; 
+    height: 200px; 
+    width: 150px;
+
+    text-align: center;
+    padding: 10px;
+}
+.imgscuerd1 {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.title_scruerd {
+    margin: px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imgscuerd1 {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+/*scuerd1*/
+
+/*scuerd2*/
+.scuerd2 {
+    display: inline-block; 
+    position: relative;
+    left: 700px;
+
+    background-color: darkgray; 
+    height: 200px; 
+    width: 150px;
+
+    text-align: center; 
+    padding: 10px; 
+}
+.imgscuerd2 {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto; 
+}
+
+.title_scruerd2 {
+    margin: px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imgscuerd2 {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+/*scuerd2*/
+
+/*scuerd3*/
+.scuerd3 {
+    display: inline-block; 
+    position: relative;
+    left: 1200px;
+
+    background-color: darkgray; 
+    height: 200px; 
+    width: 150px;
+
+    text-align: center; 
+    padding: 10px; 
+}
+.imgscuerd3 {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto; 
+}
+
+.title_scruerd3 {
+    margin: px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imgscuerd3 {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+/*scuerd3*/
+
+/*inf*/
+.inf{
+    background-color: black;
+    height: 250px;
+    position: relative;
+    bottom: -600px;
+}
+
+.imginfo1{
+    display: inline-block;
+    position: relative;
+    height: 50px;
+
+}
+
+.imginfo2{
+    display: inline-block;
+    position: relative;
+    height: 50px;
+
+}
+
+.linfinfo1{
+    display: inline-block;
+    position: relative;
+    bottom: -116px;
+
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.linfinfo2{
+    display: inline-block;
+    position: relative;
+    bottom: -116px;
+
+    color: white;
+    font-style: italic;
+}
+
+.infp{
+    position: relative;
+    top: 30px;
+    left: 20px;
+    width: 150px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*inf*/
+
+
+/*donation*/
+
+.imginfo1a{
+    position: relative;
+    display: block;
+    top: 150px;
+}
+
+.imgdonate{
+    height: 450px;
+    position: relative;
+    left: 50px;
+}
+
+.donationinfop{
+    position: relative;
+    left: 30%;
+    top: -300px;
+    width: 550px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.titleinfo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    top: -50px;
+}
+
+.a001{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: -80px;
+
+    position: relative;
+    left: 100px;
+}
+
+.sssgytt{
+    position: relative;
+    left: 600px;
+    top: -200px;
+    text-align: center;
+    
+    background-color: darkgray;
+
+
+    color: white;
+
+    font-size: 70px;
+}
+
+.buttomdonate{
+    display: grid;
+    width: 400px;
+    height: 100px;
+}
+
+/*donation*/
+
+/*paypage*/
+
+.defr{
+    display: inline;
+}
+
+.defr2{
+    display: inline;
+}
+
+.asdf{
+    list-style-type: none;
+}
+
+.tabla{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    top: -200px;
+}
+
+.imgdp1{
+    width: 20%;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+
+.buttom{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 200px;
+
+    background-color: darkgray;
+    font-size: 100px;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+
+.bread{
+    color: black;
+    
+}
+
+.aaa{
+    position: relative;
+    top: 20px;
+}
+
+.aab{
+    position: relative;
+    top: 40px;
+}
+
+tr , td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*paypage*/
+
+
+#thanks{
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    height: 80px;
+    transform: translateX(-50%);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.index{
+    position: relative;
+    top: 300px;
+    left: 40%;
+    height: 80px;
+    transform: translateX(-50%);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+
+    background-color: darkgray;
+    font-size: 100px;
+}
+
+.cat{
+    position: relative;
+    top: 500px;
+    text-align: center;
+}
+
+
+.fondo{
+    background-color: lightblue;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat; 
+    
+}
+
+.about{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 50px;
+    border-radius: 50%;
+    width: 500px;
+    top: 200px;
+    background: fixed;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.DonationGoal{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 50px;
+    border-radius: 50%;
+    width: 500px;
+    top: 200px;
+    background: fixed;
+}
+
+.ext{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 50px;
+    border-radius: 50%;
+    width: 500px;
+    top: 200px;
+    background: fixed;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: larger;
+}
